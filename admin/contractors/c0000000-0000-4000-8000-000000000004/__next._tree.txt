@@ -1,0 +1,8 @@
+:HL["/proven/_next/static/chunks/0jy0ak-cdj3w8.css","style"]
+:HC["/",""]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":{"n":"id","t":"d","k":"c0000000-0000-4000-8000-000000000004","s":["new"]},"h":96,"c":"$Q5"}]]
+3:[["children",{"s":"contractors","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"(panel)","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"admin","h":96,"c":"$Q2"}]]
+0:{"b":"y3ZMoGylZtYE5Xv16m-B2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
